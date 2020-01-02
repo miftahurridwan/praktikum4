@@ -5,8 +5,7 @@ Pada kesempatan kali ini kita akan membuat program sederhana untuk memasukkan se
 
 # Code nya
 
-![program data mahasiswa](https://user-images.githubusercontent.com/56618988/71651838-4ae0bf80-2d53-11ea-9f9c-1eacc5943d29.png)
-
+![program data mahasiswa](https://user-images.githubusercontent.com/56618988/71651893-b0cd4700-2d53-11ea-9cc2-94a9ffb15f08.png)
 
 # penjelasan
 
